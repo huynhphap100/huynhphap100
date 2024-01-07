@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://facebook.com/PhapPurple">
-    <img src="https://github.com/huynhphap100/huynhphap100/images/fb.png" alt="PhapPurple"/>
+    <img src="https://github.com/huynhphap100/huynhphap100/blob/main/images/fb.png" alt="PhapPurple"/>
   </a>
 </p>
 
