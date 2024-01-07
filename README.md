@@ -1,7 +1,11 @@
 <h1 align="center">About Me</h1>
-<p><ins>Nick name:</ins> PhapPurple (OriNeko)</p>
+<p align="center"><ins>Nick name:</ins> PhapPurple (OriNeko)</p>
 
-[![facebook-link]](https://facebook.com/PhapPurple)
+<p align="center">
+  <a href="https://facebook.com/PhapPurple">
+    <img src="https://github.com/huynhphap100/huynhphap100/images/fb.png" alt="PhapPurple"/>
+  </a>
+</p>
 
 <h2 align="center">My Project $${\color{lightblue}ANIME \space \space  \space  HEAVEN}$$</h2>
 
