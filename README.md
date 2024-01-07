@@ -3,7 +3,14 @@
 
 <p align="center">
   <a href="https://facebook.com/PhapPurple">
-    <img src="https://github.com/huynhphap100/huynhphap100/blob/main/images/fb.png" alt="PhapPurple"/>
+    <img src="https://github.com/huynhphap100/huynhphap100/blob/main/images/fb.png" alt="PhapPurple" width="100px"/>
+  </a>
+</p>
+
+<h2 align="center">My Team</h2>
+<p align="center">
+  <a href="https://github.com/Vanderis-Team">
+    <img src="https://avatars.githubusercontent.com/u/135496595?s=400&u=430af9d0b49b57a2d5458184403b31080d7c430e&v=4" alt="Vanderis" width="100px"/>
   </a>
 </p>
 
