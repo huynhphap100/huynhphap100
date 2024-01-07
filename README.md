@@ -10,4 +10,4 @@
 <p align="center">"The project is still ongoing by PhapPurple, and once it's completed, I will publicly share this website on social media."</p>
 
 [product-screenshot]: images/screenshot.png
-[facebook-link]: images/fb.jpg
+[facebook-link]: images/fb.png
