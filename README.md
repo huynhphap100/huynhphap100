@@ -22,6 +22,18 @@
   __________
 </p>
 
+<h2 align="center">My Main Language</h2>
+<p align="center">
+  ______
+    <a href="#">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" width="50px" height="50px"/>
+    </a>
+    <a href="#">
+      <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" alt="HTML5" width="130px" height="50px"/>
+    </a>
+  ______
+</p>
+
 <h2 align="center">My Project $${\color{lightblue}ANIME \space \space \space  HEAVEN}$$</h2>
 
 [![product-screenshot]](https://example.com)
