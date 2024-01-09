@@ -37,6 +37,16 @@
   ______
 </p>
 
+<h2 align="center">My Project</h2>
+<a href="https://dihoastore.net/product/PlayerOre">
+  <img src="https://dihoastore.net/assets/img/item.png" alt="PlayerOre" width="50px" height="50px"/>
+</a>
+<p>Player Ore</p>
+<a href="https://dihoastore.net/product/PlayerOre">
+  <img src="https://dihoastore.net/assets/img/item.png" alt="PlayerOre" width="50px" height="50px"/>
+</a>
+<p>Player Ore</p>
+
 <h2 align="center">My Project $${\color{lightblue}ANIME \space \space \space  HEAVEN}$$</h2>
 
 [![product-screenshot]](https://example.com)
