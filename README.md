@@ -25,19 +25,19 @@
 <h2 align="center">My Main Language</h2>
 <div align="center">
   ______
-    <a href="#">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" width="50px" height="50px"/>
-    </a>
-    <a href="#">
-      <img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="PHP" width="70px" height="50px"/>
-    </a>
-    <a href="#">
-      <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" alt="HTML5" width="130px" height="50px"/>
-    </a>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" width="50px" height="50px"/>
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="PHP" width="70px" height="50px"/>
+  <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" alt="HTML5" width="130px" height="50px"/>
   ______
 </div>
 
 <h2 align="center">My Project</h2>
+<p align="center">
+  <a href="https://www.spigotmc.org/resources/1-9-1-20-4-%E2%9A%A1-thirst-bar-%E2%9A%A1-add-thirst-unit-for-player-%E2%AD%90-placeholderapi-and-worldguard-support.113587/">
+    <img src="https://github.com/huynhphap100/huynhphap100/assets/79410422/e5fbebfa-b405-4797-8255-2510ce16e7ca" alt="⚡ Thirst Bar ⚡" width="50px" height="50px"/>
+    ⚡ Thirst Bar ⚡
+  </a>
+</p>
 <a href="https://dihoastore.net/product/PlayerOre">
   <img src="https://dihoastore.net/assets/img/item.png" alt="PlayerOre" width="25px" height="25px"/>
   Player Ore
