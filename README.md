@@ -28,6 +28,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" width="50px" height="50px"/>
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" alt="PHP" width="70px" height="50px"/>
   <img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" alt="HTML5" width="130px" height="50px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="SQL" width="130px" height="50px"/>
   ______
 </div>
 
