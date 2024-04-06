@@ -32,7 +32,7 @@
   ______
 </div>
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Projects Sell</h2>
 <p align="center">
   <a href="https://www.spigotmc.org/resources/1-9-1-20-4-%E2%9A%A1-thirst-bar-%E2%9A%A1-add-thirst-unit-for-player-%E2%AD%90-placeholderapi-and-worldguard-support.113587/">
     <img src="https://github.com/huynhphap100/huynhphap100/assets/79410422/e5fbebfa-b405-4797-8255-2510ce16e7ca" alt="⚡ Thirst Bar ⚡" width="50px" height="50px"/>
@@ -79,10 +79,10 @@
   ChanNguyen
 </a>
 
-<h2 align="center">My Project $${\color{lightblue}ANIME \space \space \space  HEAVEN}$$</h2>
+<h2 align="center">Projects Professional $${\color{lightblue}INTERIOR \space \space \space STORE}$$</h2>
 
 [![product-screenshot]](https://example.com)
 
 <p align="center">"The project is still ongoing by PhapPurple, and once it's completed, I will publicly share this website on social media."</p>
 
-[product-screenshot]: images/screenshot2.png
+[product-screenshot]: images/screenshot.png
