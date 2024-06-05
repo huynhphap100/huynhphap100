@@ -9,7 +9,7 @@
   __________
 </p>
 
-<h2 align="center">My Team</h2>
+<h2 align="center">My Teams</h2>
 <div align="center">
   __________
   <a href="https://github.com/Vanderis-Team">
@@ -22,7 +22,7 @@
   __________
 </div>
 
-<h2 align="center">Main Languages</h2>
+<h2 align="center">Programming Languages</h2>
 <div align="center">
   ______
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" width="50px" height="50px"/>
@@ -32,7 +32,7 @@
   ______
 </div>
 
-<h2 align="center">Projects Sell</h2>
+<h2 align="center">Sold Projects</h2>
 <p align="center">
   <a href="https://www.spigotmc.org/resources/1-9-1-20-4-%E2%9A%A1-thirst-bar-%E2%9A%A1-add-thirst-unit-for-player-%E2%AD%90-placeholderapi-and-worldguard-support.113587/">
     <img src="https://github.com/huynhphap100/huynhphap100/assets/79410422/e5fbebfa-b405-4797-8255-2510ce16e7ca" alt="⚡ Thirst Bar ⚡" width="50px" height="50px"/>
